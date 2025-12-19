@@ -1,10 +1,10 @@
-# 🎮 Ashu's Community – Gaming Website
+#  Ashu's Community – Gaming Website
 
 A modern gaming community website inspired by **Valorant**, created using **HTML and CSS**. The site focuses on a dark, neon-themed design with smooth animations and a clean layout to bring gamers together.
 
 ---
 
-## 🌟 Features
+##  Features
 
 - Hero banner with Valorant-themed background
 - Sticky navigation bar
@@ -18,7 +18,7 @@ A modern gaming community website inspired by **Valorant**, created using **HTML
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
